@@ -44,17 +44,15 @@ The project demonstrates how an AI model can support insurance claim processing 
 
 ## Project Structure
 
-```text
-.
-
-└── README.md
-
-└──src/
+├── src/
+│   └── claim_checker/
+│       ├── __init__.py
+│       ├── config.py
+│       ├── gemini_client.py
+│       ├── claim_extractor.py
+│       ├── policy_database.py
+│       ├── eligibility_checker.py
+│       └── explanation_generator.py
 ├── main.py
-├── config.py
-├── gemini_client.py
-├── claim_extractor.py
-├── policy_database.py
-├── eligibility_checker.py
-└── explanation_generator.py
-
+├── requirements.txt
+├── README.md
