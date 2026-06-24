@@ -57,4 +57,5 @@ AI-checker/
 │       └── explanation_generator.py
 ├── main.py
 ├── requirements.txt
-└── R
+└── README.md
+
