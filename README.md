@@ -43,7 +43,7 @@ The project demonstrates how an AI model can support insurance claim processing 
 ---
 
 ## Project Structure
-
+AI-checker/
 ├── src/
 │   └── claim_checker/
 │       ├── __init__.py
@@ -55,4 +55,4 @@ The project demonstrates how an AI model can support insurance claim processing 
 │       └── explanation_generator.py
 ├── main.py
 ├── requirements.txt
-├── README.md
+└── README.md
