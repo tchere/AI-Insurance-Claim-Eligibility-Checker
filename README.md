@@ -48,8 +48,6 @@ The project demonstrates how an AI model can support insurance claim processing 
 AI-checker/
 ├── src/
 │   └── claim_checker/
-│       ├── __init__.py
-│       ├── config.py
 │       ├── gemini_client.py
 │       ├── claim_extractor.py
 │       ├── policy_database.py
