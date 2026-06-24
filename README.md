@@ -46,5 +46,15 @@ The project demonstrates how an AI model can support insurance claim processing 
 
 ```text
 .
-├── ai_checker_test.py
+
 └── README.md
+
+└──src/
+├── main.py
+├── config.py
+├── gemini_client.py
+├── claim_extractor.py
+├── policy_database.py
+├── eligibility_checker.py
+└── explanation_generator.py
+
